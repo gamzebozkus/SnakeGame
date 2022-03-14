@@ -1,0 +1,10 @@
+C:\Users\1gamz\source\repos\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe.config
+C:\Users\1gamz\source\repos\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.exe
+C:\Users\1gamz\source\repos\Yilan_Oyunu\Yilan_Oyunu\bin\Debug\Yilan_Oyunu.pdb
+C:\Users\1gamz\source\repos\Yilan_Oyunu\Yilan_Oyunu\obj\Debug\Yilan_Oyunu.csproj.AssemblyReference.cache
+C:\Users\1gamz\source\repos\Yilan_Oyunu\Yilan_Oyunu\obj\Debug\Yilan_Oyunu.Form1.resources
+C:\Users\1gamz\source\repos\Yilan_Oyunu\Yilan_Oyunu\obj\Debug\Yilan_Oyunu.Properties.Resources.resources
+C:\Users\1gamz\source\repos\Yilan_Oyunu\Yilan_Oyunu\obj\Debug\Yilan_Oyunu.csproj.GenerateResource.cache
+C:\Users\1gamz\source\repos\Yilan_Oyunu\Yilan_Oyunu\obj\Debug\Yilan_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\1gamz\source\repos\Yilan_Oyunu\Yilan_Oyunu\obj\Debug\Yilan_Oyunu.exe
+C:\Users\1gamz\source\repos\Yilan_Oyunu\Yilan_Oyunu\obj\Debug\Yilan_Oyunu.pdb
